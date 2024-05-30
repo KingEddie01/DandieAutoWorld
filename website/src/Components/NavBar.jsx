@@ -5,7 +5,7 @@ import style from "./NavBarStyle.module.css"
 
 function NavBar(){
   return(
-   <nav className={style.main}>
+   <nav className={style.main} style={{position:"fixed",}}>
     
 
       <h1 className={style.dandie}>DandieAutoWorld</h1>
