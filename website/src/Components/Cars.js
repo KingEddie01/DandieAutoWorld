@@ -98,8 +98,7 @@ const Car = [
   { image: car45, title: "car" },
   { image: car46, title: "car" },
   { image: car47, title: "car" },
-  { image: car48, title: "car" },
-  { image: car49, title: "car" },
+{ image: car49, title: "car" },
   { image: car50, title: "car" },
   { image: car51, title: "big car" },
 ];
